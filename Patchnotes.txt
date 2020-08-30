@@ -2,3 +2,10 @@ Alpha
 *0.1
 -Adding splash screen
 -Adding icon
+*0.2
+-Adding end turn button
+-Adding turn system
+-Adding basic tribal progression
+-Adding hunter,gatherer,and toolmaker job
+-Adding system to count people in job in addition to adding and substracting
+-Adding resources system
