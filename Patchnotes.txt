@@ -9,3 +9,9 @@ Alpha
 -Adding hunter,gatherer,and toolmaker job
 -Adding system to count people in job in addition to adding and substracting
 -Adding resources system
+*0.3
+-Adding info on goods produced per turn
+-Adding pops system
+-Worker now limited to pops
+-Pop growth now based on foods
+-Added pop growth progress bar
